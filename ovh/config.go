@@ -2,7 +2,7 @@ package ovh
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	cleanhttp "github.com/hashicorp/go-cleanhttp"
